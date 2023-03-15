@@ -14,7 +14,7 @@
 
 <div>
 <a href="https://github.com/Pacovska">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacovska&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacovska&layout=demo&langs_count=7&theme=dracula"/>
 </div>
 
 ### Contacts:
